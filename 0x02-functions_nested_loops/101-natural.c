@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main  entry point
+ * main - entry point
  *
  * Description: computes the sum of all
  * the multiples of 3 or 5
