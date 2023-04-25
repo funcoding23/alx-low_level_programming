@@ -10,7 +10,7 @@
 
 void print_tot98(int n)
 {
-	int cunt;
+	int count;
 
 	if (n > 98)
 		for (count = n; count > 98; count--)
